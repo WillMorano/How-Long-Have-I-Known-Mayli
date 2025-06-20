@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/How-Long-Have-I-ve-Known-Mayli/static/css/main.f855e6bc.css",
-    "main.js": "/How-Long-Have-I-ve-Known-Mayli/static/js/main.27766efb.js",
-    "static/js/453.8d374385.chunk.js": "/How-Long-Have-I-ve-Known-Mayli/static/js/453.8d374385.chunk.js",
-    "static/media/logo.svg": "/How-Long-Have-I-ve-Known-Mayli/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/How-Long-Have-I-ve-Known-Mayli/index.html",
-    "main.f855e6bc.css.map": "/How-Long-Have-I-ve-Known-Mayli/static/css/main.f855e6bc.css.map",
-    "main.27766efb.js.map": "/How-Long-Have-I-ve-Known-Mayli/static/js/main.27766efb.js.map",
-    "453.8d374385.chunk.js.map": "/How-Long-Have-I-ve-Known-Mayli/static/js/453.8d374385.chunk.js.map"
+    "main.css": "/How-Long-Have-Ive-Known-Mayli/static/css/main.416afbc2.css",
+    "main.js": "/How-Long-Have-Ive-Known-Mayli/static/js/main.07c2800d.js",
+    "static/js/453.8d374385.chunk.js": "/How-Long-Have-Ive-Known-Mayli/static/js/453.8d374385.chunk.js",
+    "static/media/orange-purple-space.mp4": "/How-Long-Have-Ive-Known-Mayli/static/media/orange-purple-space.861efcadb8a180657533.mp4",
+    "static/media/logo.svg": "/How-Long-Have-Ive-Known-Mayli/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/How-Long-Have-Ive-Known-Mayli/index.html",
+    "main.416afbc2.css.map": "/How-Long-Have-Ive-Known-Mayli/static/css/main.416afbc2.css.map",
+    "main.07c2800d.js.map": "/How-Long-Have-Ive-Known-Mayli/static/js/main.07c2800d.js.map",
+    "453.8d374385.chunk.js.map": "/How-Long-Have-Ive-Known-Mayli/static/js/453.8d374385.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.27766efb.js"
+    "static/css/main.416afbc2.css",
+    "static/js/main.07c2800d.js"
   ]
 }
